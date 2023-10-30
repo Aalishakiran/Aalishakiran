@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aalishakiran
-- 👀 I’m interested in Easy Tech Solution
+- 👀 I’m interested in the Simplilearn Automation Testing course
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on Easy Tech Solution
 - 📫 How to reach me galisha1994@gmail.com
